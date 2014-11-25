@@ -34,4 +34,4 @@
 *.mo binary
 *.pdf binary
 
-*.ext filter=tabspace
+*.html filter=tabspace
